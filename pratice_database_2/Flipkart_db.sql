@@ -69,4 +69,12 @@ SELECT category ,count(*) FROM  Products Group by  category Having count(*) >=1;
 
 
 
+
+
 SELECT * FROM Products;
+
+
+
+
+
+
