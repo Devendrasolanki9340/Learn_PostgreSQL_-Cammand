@@ -24,3 +24,4 @@ students_id INT PRIMARY KEY ,
 SELECT * FROM  students_profiles;
 
 SELECT * FROM students;
+
